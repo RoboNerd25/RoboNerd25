@@ -1,6 +1,7 @@
 <b> Explore the world of Robotics🤖, Electronics⚡, and Programming👨‍💻 with us! 
 We're here to share our knowledge and help you learn. Join us on this exciting journey of discovery. </b>
 
+- 🎥 We're on Youtube: <a href="https://www.youtube.com/@RoboNerd-25"><b>RoboNerd</b></a>
 - 👀 We're interested in electronics and programming
 - 📫 Reach us on Gmail: robonerd25@gmail.com
 
