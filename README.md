@@ -3,7 +3,7 @@ We're here to share our knowledge and help you learn. Join us on this exciting j
 
 - 🎥 We're on Youtube: <a href="https://www.youtube.com/@RoboNerd-25"><b>RoboNerd</b></a>
 - 👀 We're interested in electronics and programming
-- 📫 Reach us on Gmail: robonerd25@gmail.com
+- 📫 Send an email to us: robonerd25@gmail.com
 
 <!---
 RoboNerd25/RoboNerd25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
